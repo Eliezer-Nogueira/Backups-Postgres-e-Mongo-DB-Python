@@ -1,0 +1,6 @@
+# Ignorar credenciais
+credentials/.env
+credentials/tokens.json
+credentials/client_secret_387147842037-vhj9u42el7op4rem3ocjo5k260gr3qk2.apps.googleusercontent.com.json
+logs/backup_log.txt
+venv
